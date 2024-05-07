@@ -1,6 +1,6 @@
 # marketing-website-ui
 
-## (Türkçe)
+# (Türkçe)
 
 ## Amaç
 - marketing website tasarımı nasıl olmalıdır sorusuna cevap vermek
@@ -18,19 +18,19 @@
 ## Projeyi açmak için:
 - VsCode'da aç ve Go live extension'ı ile çalıştır.
 
-## (Eng)
+# (English)
 
 ## Aim
 - Answering the question of how marketing website design should be
 
-## Path Used
+## Methods
 
 - Responsive Design
 - Color compatibility
 
 ## Contribution of the project
 
-- Do not experiment with the user interface design of the website.
+- Experience in designing the user interface of the website.
 - Researching and learning the basic elements and elements that should be on the marketing website.
 
 ## If you want to run this project:
