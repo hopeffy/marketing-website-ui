@@ -15,6 +15,9 @@
 - Websitesinin kullanıcı arayüz tasarımını yapmayın deneyimlemek.
 - Marketing websitesinde olması gereken temel öge ve unsurları araştırmak, öğrenmek.
 
+## Projeyi açmak için:
+- VsCode'da aç ve Go live extension'ı ile çalıştır.
+
 ## (Eng)
 
 ## Aim
@@ -29,3 +32,6 @@
 
 - Do not experiment with the user interface design of the website.
 - Researching and learning the basic elements and elements that should be on the marketing website.
+
+## If you want to run this project:
+- open VScode and run this file with Go live extension.
